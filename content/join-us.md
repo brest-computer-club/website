@@ -11,10 +11,10 @@ title = "nous rejoindre"
 
 ## vous nous trouverez ici :
 
-- _Github_ : https://github.com/brest-computer-club
-- _Meetup_ : https://www.meetup.com/Brest-Computer-Club/
-- _Twitter_ : https://twitter.com/brestcc 
-- _Youtube_ : https://www.youtube.com/channel/UC3_JH5jZNCy59UYMJHVmwYA
-- _Email_ : brest-computer-club@protonmail.com
+- [github](https://github.com/brest-computer-club)
+- [meetup](https://www.meetup.com/Brest-Computer-Club/)
+- [twitter](https://twitter.com/brestcc)
+- [youtube](https://www.youtube.com/channel/UC3_JH5jZNCy59UYMJHVmwYA)
+- [brest-computer-club@protonmail.com](mailto:brest-computer-club@protonmail.com) 
 
 
