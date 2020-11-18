@@ -8,3 +8,6 @@ Le Brest Computer Club rassemble une communauté de développeurs professionnels
 - Partager sur divers sujets informatiques du plus concret au plus abstrait ;
 - Organiser des événements creative-coding, live-coding etc.
 
+
+---
+==> [NOUS CONTACTER ](https://docs.google.com/forms/d/e/1FAIpQLSdCnEdDEtzH-QFqMBA7-CrvVi8pwciGxPVML1OondETuNBo2g/viewform)
