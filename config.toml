@@ -1,0 +1,81 @@
+title = "My New Hugo Site"
+baseurl = "/"
+defaultContentLanguage = "fr"
+languageCode = "fr-fr"
+theme = "terminal"
+paginate = 10
+
+[params]
+  # dir name of your main content (default is `content/posts`).
+  # the list of set content will show up on your index page (baseurl).
+  contentTypeName = "posts"
+
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor = "green"
+
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 4
+
+  # show selector to switch language
+  showLanguageSelector = false
+
+  # set theme to full screen width
+  fullWidthTheme = true
+
+  # center theme with default width
+  centerTheme = false
+
+  # set a custom favicon (default is a `themeColor` square)
+  # favicon = "favicon.ico"
+
+  # set post to show the last updated
+  # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
+  showLastUpdated = false
+  # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
+  # updatedDatePrefix = "Updated"
+
+  # set all headings to their default size (depending on browser settings)
+  # it's set to `true` by default
+  # oneHeadingSize = false
+
+[params.twitter]
+  # set Twitter handles for Twitter cards
+  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
+  # do not include @
+  creator = "brestcc"
+  site = "https://brestcomputer.club"
+
+[languages]
+  [languages.fr]
+    languageName = "Français"
+    title = "Brest Computer Club"
+    subtitle = "we craft FOSS for people"
+    owner = ""
+    keywords = "foss, hacker space, brest"
+    copyright = ""
+    menuMore = "plus"
+    readMore = "plus"
+    readOtherPosts = "lire d'autres articles"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"
+
+    [languages.fr.params.logo]
+      logoText = "Brest Computer Club"
+      logoHomeLink = "/"
+
+    [languages.fr.menu]
+      [[languages.fr.menu.main]]
+        identifier = "about"
+        name = "à propos"
+        url = "/about"
+
+      [[languages.fr.menu.main]]
+        identifier = "projets"
+        name = "projets"
+        url = "/projets"
+        content = "salut"
+
+      [[languages.fr.menu.main]]
+        identifier = "nous-rejoindre"
+        name = "nous rejoindre"
+        url = "/join-us"
