@@ -4,7 +4,7 @@ title = "nous rejoindre"
 
 ## pourquoi rejoindre le Brest Computer Club ?
 
-- _développeurs_ : travaillez sur des projets open-source concrets, utiles avec les technos les plus modernes et avec une démarche "craftsmanship" !
+- _développeurs_ : travaillez sur des projets open-source concrets, utiles, avec les technos les plus modernes et dans une démarche "craftsmanship" !
 - _étudiants en info_ : gagnez une véritable expérience pro (#pimpTonCV) tout en étant utile à la société
 - _artistes_ : partager vos créations, apprendre des uns des autres.
 

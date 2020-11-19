@@ -3,7 +3,6 @@ title: "projets"
 ---
 
 ## Knowledge 
-
 knowledge vous permet de construire une base de connaissance à partir de simples fichiers textes.
 
 En utilisant la syntaxe [markdown](https://www.markdowntutorial.com/fr/) pour la mise en forme, créer des liens entre les documents etc.
