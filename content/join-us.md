@@ -8,6 +8,9 @@ title = "nous rejoindre"
 - _étudiants en info_ : gagnez une véritable expérience pro (#pimpTonCV) tout en étant utile à la société
 - _artistes_ : partager vos créations, apprendre des uns des autres.
 
+## je n'habite pas à Brest-même, je peux participer ?
+
+Of course ! On est pas des bêtes !
 
 ## vous nous trouverez ici :
 
