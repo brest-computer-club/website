@@ -9,7 +9,7 @@ En utilisant la syntaxe [markdown](https://www.markdowntutorial.com/fr/) pour la
 notre solution reste complètement ouverte : stockez, éditez et partagez vos documents avec les solutions dont vous avez déjà l'habitude : vim + git pour les devs, notepad ou [dillinger](https://dillinger.io/) et google drive pour le plus grand public.
 
 
-_Télécharger la version [linux](https://github.com/brest-computer-club/knowledge/releases/download/v.0.0.3/knowledge-x86_64)_
+_Télécharger la version [linux](https://github.com/brest-computer-club/knowledge/releases)_
 
 [github](https://github.com/brest-computer-club/knowledge) `rust, elm`
 
