@@ -10,7 +10,7 @@ title = "nous rejoindre"
 
 ## je n'habite pas à Brest-même, je peux participer ?
 
-Of course ! On est pas des bêtes !
+Evidemment ! Venez jeter un oeil ( on est [uniquement en ligne en ce moment](https://www.meetup.com/Brest-Computer-Club/) ).
 
 ## vous nous trouverez ici :
 
